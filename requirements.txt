@@ -1,0 +1,8 @@
+numpy
+opencv-python
+pillow
+pyautogui
+keyboard
+torch
+inference-sdk
+python-dotenv
